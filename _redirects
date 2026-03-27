@@ -1,0 +1,8 @@
+# Preserve backlink juice - redirect old paths to homepage until full pages are built
+/sandos-playacar-hotel-resort-spa-promotion    /    200
+/sandos-caracol-eco-hotel-resort-spa-promotion/ /    200
+/sandos-lifestyle-cancun-resort-hotel-spa-promotion/ / 200
+/was-it-sandos-or-sandals-resort/              /    200
+/all-inclusive-resorts/                         /    200
+/sandos-cancun-wedding-info-videos/            /    200
+/forum/*                                       /    200
